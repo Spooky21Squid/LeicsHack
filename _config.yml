@@ -1,20 +1,21 @@
-title: Template Hackathon
-nav_title: Template Hack<span class="hide-very-narrow">athon</span><br><small><span class="hide-very-narrow">with</span> University of Bristol</small>
+title: LeicsHack 2022
+nav_title: LeicsHack<span class="hide-very-narrow"> 2022</span><br><small><span class="hide-very-narrow">at</span> University of Leicester</small>
 
-event_date: 2–4 June 2021
-registration_opens_date: 17 March 2021
-registration_closes_date: 16 April 2021
+event_date: 26–27 March 2022
+registration_opens_date: 3 February 2022
+registration_closes_date: 11 March 2022
 
-author: University of Bristol Jean Golding Institute
-mailbox_address: ...@bristol.ac.uk
+author: LeicsHack at University of Leicester
+mailbox_address: mathewfitzgerald00@gmail.com
 
 description:
-  The Template Hackathon is a X-day hackathon event, organised by the University
-  of Bristol’s Jean Golding Institute. Over the course of the event, teams of
-  researchers will...
+  LeicsHack (pronounced let's hack!) 2022 finally brings hackathons to Leicester! 
+  LeicsHack is a 24 hour hackathon challenging student coders of all skill levels from all 
+  universities to create and innovate while having fun. We will provide food for duration of the hack 
+  (but bring extra snacks and water!), somewhere to sleep, and games for when you need a break. Let's Hack!
 
-url: "https://jean-golding-institute.github.io/hackathon-template"
-github_repo: jean-golding-institute
+url: "leicshack.com"
+github_repo: spooky21squid/LeicsHack
 
 theme: minima
 
@@ -33,14 +34,14 @@ header_pages:
 #    now = event is currently happening
 #   over = event has happened
 #  (demo = show all pages to demonstrate the template)
-event_status: demo
+event_status: soon
 
 # Open and close the registration form
 #   soon = Registration has not yet opened
 #   open = Registration form is open
 # closed = Registration form is now closed
 #  (demo = show all pages to demonstrate the template)
-registration_status: demo
+registration_status: open
 
 # Remove ".html" from default permalinks
 permalink: pretty
