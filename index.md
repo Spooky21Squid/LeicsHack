@@ -8,6 +8,10 @@ menu_icon: house-door
 {:.secondary}
 # {{ site.event_date }}
 
+{:.lead}
+**Hey, welcome to LeicsHack!** The idea for LeicsHack was only conceived very very recently and as such, the website is
+still being updated.
+
 <div class="aside">
     <h2><i class="bi bi-calendar3"></i> Event timeline</h2>
     <dl>
