@@ -20,7 +20,7 @@ Join us at LeicsHack on {{ site.event_date }}!.
   <a class="btn disabled">Registration opens soon</a>
 {% endif %}
 {% if site.registration_status == "open" or site.registration_status == "demo" %}
-  [Complete the application form](https://ti.to/leicshack/leicshack-2022){:.btn target="_blank"}
+  [Complete the application form](https://bit.ly/3gFpH6Z){:.btn target="_blank"}
 {% endif %}
 {% if site.registration_status == "closed" or site.registration_status == "demo" %}
   <a class="btn disabled">Registration has closed</a>
