@@ -4,6 +4,9 @@ menu_title: Resources
 menu_icon: journal-code
 ---
 
+Coming soon!
+
+<!--
 <ul class="grid">
 <li class="resource-block" markdown="1">
 
@@ -91,3 +94,5 @@ assigning them a project, weighted by number of places remaining.
 
 </li>
 </ul>
+
+-->
