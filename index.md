@@ -45,11 +45,13 @@ LeicsHack will last 24 hours on {{ site.event_date }} starting at 12pm, and is o
 **Any student from any university** is encouraged to take part, especially 1st years and students that haven't been to a hackathon
 before. It would be nice if the LeicsHack team wasn't the only new face entering the hackathon scene!
 
+You can sign up to the hack as a lone-wolf, or join us in groups of **up to 4 people.**
+
 ## LeicsHack is In-person
 
 LeicsHack will take place in-person, (hopefully) on the University of Leicester's campus. Food will be provided throughout the
 event, as well as areas to sleep after a long day of coding. We will have mini-events running too like games (Kanye-zone tournament anyone?), talks from sponsors, and workshops. Covid precautions will be in place that everyone will have to follow like wearing masks
-and social distancing where possible. More details will be announced closer to the hack!
+and social distancing where possible. To enter, **Everyone will need proof of vaccination, or proof of a negative lateral flow test taken within 24 hours of the hack.** More details will be announced closer to the hack!
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
 
