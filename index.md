@@ -1,23 +1,12 @@
 ---
 layout: page
-title: Template Hackathon
+title: LeicsHack 2022
 menu_title: Home
 menu_icon: house-door
 ---
 
 {:.secondary}
-# {{ site.event_date }}, in association with the University of Bristol
-
-<!-- REMOVE THIS SECTION when you use this template -->
-<div class="lead" markdown="1">
-This is a demo of the template repository for a public-facing hackathon website,
-built by the [Jean Golding Institute](https://www.bristol.ac.uk/golding/) at the
-University of Bristol.
-
-For more information: view the [README](https://github.com/jean-golding-institute/hackathon-template/blob/main/README.md) 
-or the [GitHub repository](https://github.com/jean-golding-institute/hackathon-template).
-</div>
-<!-- END of section to remove -->
+# {{ site.event_date }}
 
 <div class="aside">
     <h2><i class="bi bi-calendar3"></i> Event timeline</h2>
@@ -46,28 +35,17 @@ or the [GitHub repository](https://github.com/jean-golding-institute/hackathon-t
 
 {% if site.event_status != "over" %}
 
-Scientists from the University of Bristol are hosting a X-day hackathon on
-{{ site.event_date }}, open to researchers, to...
+Hey, we're LeicsHack (pronounced Let's Hack) 2022! For the first time in a very long time, a hackathon has come to Leicester.
+LeicsHack will last 24 hours on {{ site.event_date }} starting at 12pm, and is organised for students, by students.
 
-Researchers can sign up to [topics ranging from]({{ site.baseurl }}{% link projects.md %})
-... to ..., and more. Teams will be led by senior academics from a range of
-disciplines at the University of Bristol, but participating researchers can be
-from any UK academic institution. [This opportunity]({{ site.baseurl }}{% link registration.md %})
-is open to early career researchers[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career Researcher (ECR)?"}.
+**Any student from any university** is encouraged to take part, especially 1st years and students that haven't been to a hackathon
+before. It would be nice if the LeicsHack team wasn't the only new face entering the hackathon scene!
 
-Participation is open to **researchers from any UK academic institution**, and
-we encourage contributions from **early career researchers**[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career Researcher (ECR)?"},
-including PhDs and Postdocs.
+## LeicsHack is In-person
 
-## Logistics
-
-The event will take place virtually, using a combination of **video
-conferencing** (Zoom) for meetings and seminars, and **discussion forums**
-(Slack) for ongoing comms. Data holding and analysis will take place on...
-
-## Outputs
-
-By the end of the event, we hope to...
+LeicsHack will take place in-person, (hopefully) on the University of Leicester's campus. Food will be provided throughout the
+event, as well as areas to sleep after a long day of coding. We will have mini-events running too like games (Kanye-zone tournament anyone?), talks from sponsors, and workshops. Covid precautions will be in place that everyone will have to follow like wearing masks
+and social distancing where possible. More details will be announced closer to the hack!
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
 
