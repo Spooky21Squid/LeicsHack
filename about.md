@@ -4,32 +4,29 @@ menu_title: About
 menu_icon: globe2
 ---
 
-The Template Hackathon is a X-day hackathon event, organised by the University
-of Bristol's [Jean Golding Institute](https://www.bristol.ac.uk/golding/). Over
-the course of the event, teams of researchers will... We encourage contributions
-from early career researchers, including PhDs and Postdocs.
+LeicsHack 2022 is a 2-day hackathon event held at the University of Leicester. Teams of students will
+code, create and innovate over a 24 hour period, to create solutions to problems we will reveal at the hack.
+We provide food, sleeping arrangements, games, and prizes.
 
 ## The organising team
 
 {:.lead}
-To contact us about the hackathon, please email our dedicated mailbox:
+To contact us about the hackathon, please email:
 <{{ site.mailbox_address }}>
 
 <table class="team-list">
     <tr>
         <td>
-            <img alt="James Thomas" src="https://avatars.githubusercontent.com/u/48878399?s=120&v=4">
+            <img alt="James Thomas" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
         </td>
         <td>
-            <strong>James Thomas</strong>
+            <strong>Mat Fitzgerald</strong>
             <span class="profile-links">
-                <a title="Profile &amp; contact" href="https://www.bris.ac.uk/contact/person/getDetails?personKey=7PWOgX70s8UndjDH0UkfhsFGi763DB"><i class="bi bi-person-lines-fill"></i></a>
-                <a title="Website" href="https://jatonline.co.uk/"><i class="bi bi-globe2"></i></a>
-                <a title="GitHub" href="https://github.com/jatonline/"><i class="bi bi-github"></i></a>
-                <a title="Twitter" href="https://twitter.com/JGIBristol"><i class="bi bi-twitter"></i></a>
+                <a title="GitHub" href="https://github.com/spooky21squid/"><i class="bi bi-github"></i></a>
+                <a title="Twitter" href="https://twitter.com/SpookyGlubGlub"><i class="bi bi-twitter"></i></a>
             </span>
-            <br>University of Bristol
-            <br>Data Science Specialist, Jean Golding Institute
+            <br>University of Leicester
+            <br>Beep boop.
         </td>
     </tr>
     <tr>
@@ -37,19 +34,9 @@ To contact us about the hackathon, please email our dedicated mailbox:
             <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
         </td>
         <td>
-            <strong>Another person</strong>
-            <br>University of Bristol
-            <br>Data Science Specialist, Jean Golding Institute
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
-        </td>
-        <td>
-            <strong>Another person</strong>
-            <br>University of Bristol
-            <br>Data Science Specialist, Jean Golding Institute
+            <strong>Nial Dixon</strong>
+            <br>University of Leicester
+            <br>
         </td>
     </tr>
 </table>
