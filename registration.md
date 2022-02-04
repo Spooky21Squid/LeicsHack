@@ -1,5 +1,5 @@
 ---
-title: Hackathon registration
+title: LeicsHack registration
 menu_title: Registration
 menu_icon: clipboard-check
 event_status:
@@ -7,23 +7,20 @@ event_status:
 ---
 
 {:.lead}
-Participation is open to researchers from any UK academic institution,
-and we encourage contributions from early career
-researchers[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career
-Researcher (ECR)?"}, including PhDs and Postdocs. {% if site.registration_status
+**Any student from any university** is encouraged to take part, especially 1st years and students that haven't been to a hackathon
+before. {% if site.registration_status
 == "soon" or site.registration_status == "demo" %}Registration opens on
 {{ site.registration_opens_date }}.{% endif %} The closing date for applications
 is {{ site.registration_closes_date }}.
 
 <div class="aside" markdown="1">
-This virtual event will require some commitment prior to and including the
-Hackathon Event which will take part from {{ site.event_date }}.
+Join us at LeicsHack on {{ site.event_date }}!.
 
 {% if site.registration_status == "soon" or site.registration_status == "demo" %}
   <a class="btn disabled">Registration opens soon</a>
 {% endif %}
 {% if site.registration_status == "open" or site.registration_status == "demo" %}
-  [Complete the application form](https://forms.office.com/...){:.btn target="_blank"}
+  [Complete the application form](https://ti.to/leicshack/leicshack-2022){:.btn target="_blank"}
 {% endif %}
 {% if site.registration_status == "closed" or site.registration_status == "demo" %}
   <a class="btn disabled">Registration has closed</a>
@@ -32,6 +29,7 @@ Hackathon Event which will take part from {{ site.event_date }}.
 The closing date for applications is {{ site.registration_closes_date }}.
 </div>
 
+<!--
 We are looking for enthusiastic and dedicated researchers who already have
 experience with analysing ... data, and who are keen to experience working with
 different scientists and institutes, and perhaps on topics not immediately in
@@ -55,9 +53,10 @@ If you are interested in applying and having the opportunity to engage with
 like-minded scientists, then please complete the application form by clicking
 the link above. Please be aware that this event will only be open to those
 residing in UK academic institutions.
+-->
 
 The closing date for the applications is {{ site.registration_closes_date }}. If
 you have any queries, or have any difficulties completing the registration form,
-please email our dedicated mailbox: <{{ site.mailbox_address }}>.
+please email: <{{ site.mailbox_address }}>.
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
