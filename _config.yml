@@ -24,7 +24,6 @@ theme: minima
 header_pages:
   - registration.md
   - agenda.md
-  - projects.md
   - videos-slides.md
   - resources.md
   - about.md
