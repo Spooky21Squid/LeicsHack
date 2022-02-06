@@ -23,6 +23,7 @@ theme: minima
 # and registration_status flags below
 header_pages:
   - registration.md
+  - sponsors.md
   - agenda.md
   - resources.md
   - about.md
