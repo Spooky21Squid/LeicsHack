@@ -2,7 +2,7 @@
 ---
 
 $content-width: 1200px;
-$header-brand-color: #bbdd11;
+$header-brand-color: #DC1A21;
 
 @import "minima";
 
@@ -19,7 +19,7 @@ $header-brand-color: #bbdd11;
     }
 
     .page-link {
-        color: $header-brand-color;
+        color: #FFF;
         line-height: 80px;
         
         @include media-query($on-palm) {
@@ -178,7 +178,8 @@ dl {
     background: $header-brand-color;
     font-size: 16px;
     font-weight: bold;
-    color: #3f3f3f !important;
+    color: #FFF !important;
+    //color: #3f3f3f !important;
 
     &:hover {
         color: #1d1d1d !important;
