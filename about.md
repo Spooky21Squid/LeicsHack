@@ -39,4 +39,14 @@ To contact us about the hackathon, please email:
             <br>
         </td>
     </tr>
+    <tr>
+        <td>
+            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+        </td>
+        <td>
+            <strong>Charlotte Griffiths</strong>
+            <br>University of Leicester
+            <br>
+        </td>
+    </tr>
 </table>
