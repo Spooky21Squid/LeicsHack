@@ -20,7 +20,9 @@ physical and virtual spaces.
   speakers to help ensure a safe and positive experience for everyone.
 * Provide your true professional identity, affiliation, and, where appropriate,
   contact information, at registration and during attendance and participatory
-  sessions, as required.  
+  sessions, as required.
+* Follow all Covid guidelines set out in the Covid guidelines document such as wearing masks
+  and eating in designated areas.
 
 ## Behaviours we encourage
 
@@ -29,7 +31,7 @@ physical and virtual spaces.
 * Graceful acceptance of constructive criticism
 * Make space for others to speak and ask questions
 * Appreciate that people will have different skill, levels of knowledge and
-  expertise – be patient
+  expertise
 
 ## Unacceptable behaviour
 
@@ -42,25 +44,13 @@ physical and virtual spaces.
 * Inappropriate use of sexual language or imagery.
 * Real or implied threat of professional or financial damage or harm. 
 * Inappropriate disruption of meetings or events. 
-* Photographing, video or audio recording of slides, oral or poster
-  presentations without presenter/author’s permission. 
-* Violating the rules and regulations of the online platform (e.g. Zoom). 
+* Violating the rules and regulations of any online platforms
 
 ## Reporting incidents
 
 If you believe someone is violating the code of conduct, please report this to
-the event organiser straight away, if you can. You can also use the Jean Golding
-Institute [Code of Conduct Incident Report
-Form][1].
-The form will be reviewed by the Director and Manager and any action to address
-and/or resolve the issue will be communicated within one week.
-
-However, if you prefer to raise the unacceptable behaviour to an independent
-party, you can contact one of the University of Bristol [Acceptable Behaviour
-Supporters][2]
-who are volunteers trained to provide an informal advisory service to staff
-experiencing unacceptable behaviour, bullying or harassment at work. They can
-also support staff who are facing allegations about their own behaviour. 
+the event organisers straight away, if you can. You can find our emails on the [about page]({{ site.baseurl }}{% link about.md %}),
+or you can send us a message on discord. You can find a link to our server on your e-ticket.
 
 ## Resolution of incidents
 
@@ -71,7 +61,3 @@ actions we take could include:
 * Removal from the meeting or event. 
 * Restrictions from future meetings and events. 
 * Removal from mailing list or positions on committees or working groups.
-
-
-[1]: https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG8HSjJO_xV9IvETmnVS-rt1UOExST1JSRTdQSENQODBUQVQzUE1JTUI3WS4u
-[2]: https://www.bristol.ac.uk/inclusion/stand-up-speak-out/acceptable-behaviour-supporters/
