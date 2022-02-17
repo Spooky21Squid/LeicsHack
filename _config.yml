@@ -2,7 +2,7 @@ title: LeicsHack 2022
 nav_title: LeicsHack<span class="hide-very-narrow"> 2022</span><br><small><span class="hide-very-narrow">at</span> University of Leicester</small>
 
 event_date: 2-3 April 2022
-registration_opens_date: 3 February 2022
+registration_opens_date: 22 February 2022
 registration_closes_date: 19 March 2022
 
 author: LeicsHack at University of Leicester
@@ -26,6 +26,7 @@ header_pages:
   - sponsors.md
   - agenda.md
   - resources.md
+  - faq.md
   - about.md
 
 # Event status
@@ -40,7 +41,7 @@ event_status: soon
 #   open = Registration form is open
 # closed = Registration form is now closed
 #  (demo = show all pages to demonstrate the template)
-registration_status: open
+registration_status: soon
 
 # Remove ".html" from default permalinks
 permalink: pretty

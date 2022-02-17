@@ -8,10 +8,6 @@ menu_icon: house-door
 {:.secondary}
 # {{ site.event_date }}
 
-{:.lead}
-**Hey, welcome to LeicsHack!** The idea for LeicsHack was only conceived very very recently and as such, the website is
-still being updated.
-
 <div class="aside">
     <h2><i class="bi bi-calendar3"></i> Event timeline</h2>
     <dl>
@@ -24,7 +20,7 @@ still being updated.
                 {% elsif site.registration_status == 'closed' %}
                     <a class="btn disabled">Registration has closed</a>
                 {% elsif site.registration_status == 'soon' %}
-                    <a class="btn disabled">Registration opens soon</a>
+                    <a href="{{ site.baseurl }}{% link registration.md %}" class="btn">Register your interest now</a>
                 {% endif %}
             </dd>
         {% endif %}
@@ -47,13 +43,28 @@ before. It would be nice if the LeicsHack team wasn't the only new face entering
 
 You can sign up to the hack as a lone-wolf, or join us in groups of **up to 4 people.**
 
-## LeicsHack is In-person
+## About the Hack
 
-LeicsHack will take place in-person, (hopefully) on the University of Leicester's campus. Food will be provided throughout the
-event, as well as areas to sleep after a long day of coding. We will have mini-events running too like games (Kanye-zone tournament anyone?), talks from sponsors, and workshops. Covid precautions will be in place that everyone will have to follow like wearing masks
-and social distancing where possible. To enter, **Everyone will need proof of vaccination, or proof of a negative lateral flow test taken within 24 hours of the hack.** More details will be announced closer to the hack!
+### Where is it
+LeicsHack will be hosted **in-person** in the university's state-of-the-art informatics suite located on the top floor of the new Percy Gee building on campus. You will have the option to log in as a guest and use our Linux machines equipped with tools and development environments, or bring your own laptop.
 
-[faq]: {{ site.baseurl }}{% link faq.md %}
+### Covid Precautions
+LeicsHack will take place in-person, so Covid precautions will be in place that everyone will have to follow like wearing masks
+and social distancing where possible. To enter, **Everyone will need proof of vaccination, or proof of a negative lateral flow test taken within 24 hours of the hack.** Finalised Covid guidelines will be published closer to the event.
+
+### Food / Sleeping Arrangements
+Meals will be provided throughout the event including a midnight pizza snack, and there are water fountains in the building to use to fill up
+water bottles, but feel free to bring your own snacks!. There will also be a designated area for eating / drinking. After a long days coding, there
+will be areas to sleep and take a break.
+
+### Events / Games
+We will run workshops throughout the hack on technical subjects to help you with your projects. Sponsors will run talks
+about opportunities for students within their organisations, and run workshops about their products like APIs. Also, we are hoping
+to run some minigames throughout the hack that will offer mini-prizes!
+
+<!-- kanye-zone tournament, rubiks cube, sql-injection? -->
+
+[FAQs]({{ site.baseurl }}{% link faq.md %})
 
 {% else %}
 

@@ -17,7 +17,7 @@ is {{ site.registration_closes_date }}.
 Join us at LeicsHack on {{ site.event_date }}!.
 
 {% if site.registration_status == "soon" or site.registration_status == "demo" %}
-  <a class="btn disabled">Registration opens soon</a>
+  [Register your interest now](https://bit.ly/3gFpH6Z){:.btn target="_blank"}
 {% endif %}
 {% if site.registration_status == "open" or site.registration_status == "demo" %}
   [Complete the application form](https://bit.ly/3gFpH6Z){:.btn target="_blank"}
@@ -55,8 +55,8 @@ the link above. Please be aware that this event will only be open to those
 residing in UK academic institutions.
 -->
 
-The closing date for the applications is {{ site.registration_closes_date }}. If
-you have any queries, or have any difficulties completing the registration form,
-please email: <{{ site.mailbox_address }}>.
+Registration will open on {{ site.registration_opens_date }}, but for now, **register your interest** and be emailed when
+registration goes live! The closing date for the applications is {{ site.registration_closes_date }}. If
+you have any queries, or have any difficulties completing the registration form, please email: <{{ site.mailbox_address }}>.
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
