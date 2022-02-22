@@ -55,8 +55,6 @@ the link above. Please be aware that this event will only be open to those
 residing in UK academic institutions.
 -->
 
-Registration will open on {{ site.registration_opens_date }}, but for now, **register your interest** and be emailed when
-registration goes live! The closing date for the applications is {{ site.registration_closes_date }}. If
-you have any queries, or have any difficulties completing the registration form, please email: <{{ site.mailbox_address }}>.
+Registration are open! Click the registration button to get your ticket. The closing date for the applications is {{ site.registration_closes_date }}. If you have any queries, or have any difficulties completing the registration form, please email: <{{ site.mailbox_address }}>.
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
