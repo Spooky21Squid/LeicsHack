@@ -52,6 +52,8 @@ LeicsHack will be hosted **in-person** in the university's state-of-the-art info
 LeicsHack will take place in-person, so Covid precautions will be in place that everyone will have to follow like wearing masks
 and social distancing where possible. To enter, **Everyone will need proof of vaccination, or proof of a negative lateral flow test taken within 24 hours of the hack.** Finalised Covid guidelines will be published closer to the event.
 
+**Note:** Given the recent [Living with Covid-19 guidance by the government](https://www.gov.uk/government/publications/covid-19-response-living-with-covid-19), this might be subject to change. If it does, we will update our requirements.
+
 ### Food / Sleeping Arrangements
 Meals will be provided throughout the event including a midnight pizza snack, and there are water fountains in the building to use to fill up
 water bottles, but feel free to bring your own snacks!. There will also be a designated area for eating / drinking. After a long days coding, there
